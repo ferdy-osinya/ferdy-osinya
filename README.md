@@ -1,22 +1,26 @@
 ## Hi I'm Osinya 👋
 
-SOC Analyst | Student | Nairobi, Kenya
+SOC Analyst | Student | IT Support & Security | Nairobi, Kenya
 
-Building hands-on Blue Team skills: log analysis, alert triage and incident reporting
+Self taught IT Support Technician with penetration testing background now focused on defensive side: log analysis, alert triage and incident reporting. I'm building this portfolio in public, a documented investigation at a time.
 
-## Currently
+## What I'm working on
 
-Studying BSc Cybersecurity & Digital Forensics
+BSc Cybersecurity & Digital Forensics (in Progress)
 
-Completing Junior Cybersecurity Analyst Career Path
+Junior Cybersecurity Analyst Career Path (in progress)
 
-Completing CEH
+CEH (nearly complete)
 
-Working through TryHackMe SOC Level 1
+TryHackMe SOC Level 1 (in progress)
 
 ## Portfolio
 
 SOC Portfolio: https://github.com/ferdy-osinya/SOC-portfolio
+
+## Skills
+
+Linux (Kali) | Window Troubleshooting | Networking Basics | Scripting & Automation | Penetration Testing
 
 ## Contact
 
