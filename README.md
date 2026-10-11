@@ -1,5 +1,6 @@
 ## Hi I'm Osinya 👋
 SOC Analyst | Student | Nairobi, Kenya
+
 Building hands-on Blue Team skills: log analysis, alert triage and incident reporting
 
 ## Currently
@@ -8,7 +9,7 @@ Completing Junior Cybersecurity Analyst Career Path
 Completing CEH
 Working through TryHackMe SOC Level 1
 
-## ortfolio
+## Portfolio
 SOC Portfolio ()
 
 ## Contact
