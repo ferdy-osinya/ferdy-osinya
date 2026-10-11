@@ -16,7 +16,7 @@ Working through TryHackMe SOC Level 1
 
 ## Portfolio
 
-SOC Portfolio /ferdy-osinya/SOC-Portfolio
+SOC Portfolio: https://github.com/ferdy-osinya/SOC-portfolio
 
 ## Contact
 
