@@ -6,15 +6,15 @@ Self taught IT Support Technician with penetration testing background now focuse
 
 ## What I'm working on
 
-Building a rugby club website (Go + React) and Documenting Security side
+🏉 Building a rugby club website (Go + React) and Documenting Security side
 
-BSc Cybersecurity & Digital Forensics (in Progress)
+🎓 BSc Cybersecurity & Digital Forensics (in Progress)
 
-Junior Cybersecurity Analyst Career Path (in progress)
+📜 Junior Cybersecurity Analyst Career Path (in progress)
 
-CEH (nearly complete)
+⚒️ CEH (nearly complete)
 
-TryHackMe SOC Level 1 (in progress)
+🔍 TryHackMe SOC Level 1 (in progress)
 
 
 ## Portfolio
