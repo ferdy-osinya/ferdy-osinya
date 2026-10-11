@@ -1,19 +1,27 @@
 ## Hi I'm Osinya 👋
+
 SOC Analyst | Student | Nairobi, Kenya
 
 Building hands-on Blue Team skills: log analysis, alert triage and incident reporting
 
 ## Currently
+
 Studying BSc Cybersecurity & Digital Forensics
+
 Completing Junior Cybersecurity Analyst Career Path
+
 Completing CEH
+
 Working through TryHackMe SOC Level 1
 
 ## Portfolio
-SOC Portfolio ()
+
+SOC Portfolio /ferdy-osinya/SOC-Portfolio
 
 ## Contact
-LinkedIn: 
+
+LinkedIn: https://www.linkedin.com/in/ferdinant-osinya-97b4962b7
+
 Email: wanderferdy@gmail.com
 
 <!--
