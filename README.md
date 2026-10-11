@@ -27,9 +27,9 @@ Linux (Kali) | Window Troubleshooting | Networking Basics | Scripting & Automati
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/ferdinant-osinya-97b4962b7
+💼 LinkedIn: https://www.linkedin.com/in/ferdinant-osinya-97b4962b7
 
-Email: wanderferdy@gmail.com
+📧 Email: wanderferdy@gmail.com
 
 <!--
 **ferdy-osinya/ferdy-osinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
