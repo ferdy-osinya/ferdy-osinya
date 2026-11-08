@@ -6,7 +6,7 @@ Self taught IT Support Technician with penetration testing background now focuse
 
 ## What I'm working on
 
-🏉 Building a rugby club website (Go + React) and Documenting Security side
+🏉 Building a rugby club website (Go + React)
 
 🎓 BSc Cybersecurity & Digital Forensics (in Progress)
 
